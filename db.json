@@ -1,0 +1,75 @@
+{
+  "Items": [
+    {
+      "id": 1,
+      "name": "Whopper",
+      "description": "Our Whopper Sandwich is a ¼ lb* of savory flame-grilled beef topped with juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun.",
+      "price": 65454,
+      "imgUrl": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/84743a96a55cb36ef603c512d5b97c9141c40a33-1333x1333.png?w=320&q=40&fit=max&auto=format",
+      "authorId": 1,
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Triple Whopper With Cheese",
+      "description": "Our Triple Whopper Sandwich features three ¼ lb* savory flame-grilled beef patties topped with melted American cheese, juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun.",
+      "price": 105525,
+      "imgUrl": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/f3d7588c1f46ad6a1afaa3404cec65ed6053879f-1333x1333.png?w=320&q=40&fit=max&auto=format",
+      "authorId": 1,
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "xzczxczxc",
+      "description": "Cool down with our creamy hand spun OREO Cookie Shake. Velvety Vanilla Soft Serve, OREO cookie pieces and vanilla sauce are blended to perfection and finished with a sweet whipped topping just for you. OREO is a registered trademark of Mondelēz International group, used under license.",
+      "price": 35265,
+      "imgUrl": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/37078b3ec851acc9d27a8024cfeedb7c1ce23b46-1333x1333.png?w=320&q=40&fit=max&auto=format",
+      "authorId": 1,
+      "categoryId": 2
+    },
+    {
+      "name": "Bacon Cheese Burger",
+      "description": "You can’t go wrong with our Bacon Cheeseburger, a signature flame-grilled beef patty topped with smoked bacon and a layer of melted American cheese, crinkle cut pickles, yellow mustard, and ketchup on a toasted sesame seed bun.",
+      "price": "45999",
+      "imgUrl": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/2ab802b49c46f0512bf084bf53579d8bafe31e95-1333x1333.png?w=750&q=40&fit=max&auto=format",
+      "authorId": 1,
+      "categoryId": "1",
+      "id": 4
+    },
+    {
+      "name": "hjklhjkl",
+      "description": "lhjklhjkl",
+      "price": "2313213",
+      "imgUrl": "hjklhjkl",
+      "authorId": 1,
+      "categoryId": "1",
+      "id": 5
+    },
+    {
+      "name": "werqwerqw",
+      "description": "rqwrqwr",
+      "price": "1234124",
+      "imgUrl": "qwerqrw",
+      "authorId": 1,
+      "categoryId": "2",
+      "id": 6
+    },
+    {
+      "name": "asdasd",
+      "imgUrl": "asdasdas",
+      "id": 7
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name": "Flame Grilled Burgers",
+      "imgUrl": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/1779250930939d73cef4805edbc2d54c1ce8789e-1000x745.png?w=750&q=40&fit=max&auto=format"
+    },
+    {
+      "id": 2,
+      "name": "Beverages",
+      "imgUrl": "https://order.bkdelivery.co.id/media/thumb/product_photo/2022/1/3/bqypwacpnobsmzrferf5y9_product_list.jpg"
+    }
+  ]
+}
